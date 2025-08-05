@@ -33,15 +33,5 @@ When you run the project, it will:
 
 ---
 
-## 📦 Requirements
-
-Make sure you have Python 3.10+ installed. Then run:
-
-```bash
-pip install -r requirements.txt
-
----
-
-
 Developed by
 Atharva Nathe | Predator AI Vision | 2025
