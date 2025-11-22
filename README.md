@@ -1,6 +1,6 @@
 # Predator AI Vision 🔴🧠
 
-**Predator AI Vision** is a real-time computer vision web app built with Python, OpenCV, and DeepFace that detects faces and predicts **gender**, **age**, and **emotion**—displayed dynamically with a futuristic interface.
+**Predator AI Vision** is a real-time  computer vision web app built with Python, OpenCV, and DeepFace that detects faces and predicts **gender**, **age**, and **emotion**—displayed dynamically with a futuristic interface.
 
 ![Predator AI Vision](https://img.shields.io/badge/RealTime-Face%20AI-blue?style=flat-square)
 ![Built with Python](https://img.shields.io/badge/Built%20with-Python%203.12-yellow?style=flat-square)
